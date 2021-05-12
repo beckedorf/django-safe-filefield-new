@@ -2,7 +2,7 @@ django-safe-filefield-new
 =====================
 .. image:: https://travis-ci.com/beckedorf/django-safe-filefield-new.svg?branch=master
    :alt: build status
-   :target: https://travis-ci.org/beckedorf/django-safe-filefield-new
+   :target: https://travis-ci.com/beckedorf/django-safe-filefield-new
 .. image:: https://codecov.io/gh/beckedorf/django-safe-filefield-new/branch/master/graph/badge.svg
    :alt: code coverage
    :target: https://codecov.io/gh/beckedorf/django-safe-filefield-new
