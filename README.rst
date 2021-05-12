@@ -1,14 +1,14 @@
-django-safe-filefield
+django-safe-filefield-new
 =====================
-.. image:: https://travis-ci.org/mixkorshun/django-safe-filefield.svg?branch=master
+.. image:: https://travis-ci.com/beckedorf/django-safe-filefield-new.svg?branch=master
    :alt: build status
-   :target: https://travis-ci.org/mixkorshun/django-safe-filefield
-.. image:: https://codecov.io/gh/mixkorshun/django-safe-filefield/branch/master/graph/badge.svg
+   :target: https://travis-ci.org/beckedorf/django-safe-filefield-new
+.. image:: https://codecov.io/gh/beckedorf/django-safe-filefield-new/branch/master/graph/badge.svg
    :alt: code coverage
-   :target: https://codecov.io/gh/mixkorshun/django-safe-filefield
-.. image:: https://badge.fury.io/py/django-safe-filefield.svg
+   :target: https://codecov.io/gh/beckedorf/django-safe-filefield-new
+.. image:: https://badge.fury.io/py/django-safe-filefield-new.svg
    :alt: pypi
-   :target: https://pypi.python.org/pypi/django-safe-filefield
+   :target: https://pypi.python.org/pypi/django-safe-filefield-new
 .. image:: https://img.shields.io/badge/code%20style-pep8-orange.svg
    :alt: pep8
    :target: https://www.python.org/dev/peps/pep-0008/
@@ -26,6 +26,8 @@ This package adds model and forms field. What this fields does:
  * checks sent content type is correct for file content (detects by `libmagic`)
  * checks uploaded file with anti-virus software
 
+This project continues https://github.com/rvause/django-safe-filefield.
+
 Installation
 ------------
 
@@ -33,7 +35,7 @@ The package can be installed using:
 
 .. code-block::
 
-   pip install django-safe-filefield
+   pip install django-safe-filefield-new
 
 
 Add the following settings:
@@ -45,7 +47,7 @@ Add the following settings:
    ]
 
 
-**django-safe-filefield** requires `libmagic` to be installed.
+**django-safe-filefield-new** requires `libmagic` to be installed.
 
 Usage
 -----
