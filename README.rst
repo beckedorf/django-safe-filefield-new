@@ -1,5 +1,5 @@
 django-safe-filefield-new
-=====================
+=========================
 .. image:: https://travis-ci.com/beckedorf/django-safe-filefield-new.svg?branch=master
    :alt: build status
    :target: https://travis-ci.com/beckedorf/django-safe-filefield-new
@@ -21,7 +21,7 @@ It may be useful for user-uploaded files (attachments).
 
 This package adds model and forms field. What this fields does:
 
- * restricts allowed file extensions (for example: only *.pdf files)
+ * restricts allowed file extensions (for example: only \*.pdf files)
  * checks file extensions is correct for sent content-type
  * checks sent content type is correct for file content (detects by `libmagic`)
  * checks uploaded file with anti-virus software

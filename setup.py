@@ -9,6 +9,7 @@ setup(
     keywords=['django', 'filefield', 'model-field', 'form-field'],
 
     long_description=open('README.rst', 'r').read(),
+    long_description_content_type='text/x-rst',
 
     author='Vladislav Bakin',
     author_email='mixkorshun@gmail.com',
