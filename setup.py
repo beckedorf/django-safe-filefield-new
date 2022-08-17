@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='django-safe-filefield-new',
-    version='0.4.0',
+    version='0.4.1',
     url='https://github.com/beckedorf/django-safe-filefield-new',
     description='Secure file field, which allows you to '
                 'restrict uploaded file extensions.',
